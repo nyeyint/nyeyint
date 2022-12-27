@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Ye` Yint. A Spider Man.
-- 👀 I’m interested in DevOps, Microservices, Severless technologies and Web Development.
-- 🌱 I’m currently diving ... Golang, Tailwind and AWS
+- 👋 Hi, I’m Ye` Yint. A Web Developer.
 - 📫 How to reach me ... nyeyint.dev@gmail.com
 
 <!---
