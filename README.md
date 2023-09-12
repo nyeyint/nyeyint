@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ye` Yint. A Web Developer.
+- 👋 Hi, I’m yy. A Web Developer.
 - 📫 How to reach me ... nyeyint.dev@gmail.com
 
 <!---
